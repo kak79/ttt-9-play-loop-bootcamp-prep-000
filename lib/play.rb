@@ -38,7 +38,7 @@ end
 def play()
   count=0
   while count < 9
-  puts "something"
+   turn(board)
     count += 1
   end
 end  
